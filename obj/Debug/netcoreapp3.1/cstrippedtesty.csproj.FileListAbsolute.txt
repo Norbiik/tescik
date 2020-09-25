@@ -1,0 +1,13 @@
+C:\Users\norbi\source\repos\cstrippedtesty\bin\Debug\netcoreapp3.1\cstrippedtesty.exe
+C:\Users\norbi\source\repos\cstrippedtesty\bin\Debug\netcoreapp3.1\cstrippedtesty.deps.json
+C:\Users\norbi\source\repos\cstrippedtesty\bin\Debug\netcoreapp3.1\cstrippedtesty.runtimeconfig.json
+C:\Users\norbi\source\repos\cstrippedtesty\bin\Debug\netcoreapp3.1\cstrippedtesty.runtimeconfig.dev.json
+C:\Users\norbi\source\repos\cstrippedtesty\bin\Debug\netcoreapp3.1\cstrippedtesty.dll
+C:\Users\norbi\source\repos\cstrippedtesty\bin\Debug\netcoreapp3.1\cstrippedtesty.pdb
+C:\Users\norbi\source\repos\cstrippedtesty\obj\Debug\netcoreapp3.1\cstrippedtesty.AssemblyInfoInputs.cache
+C:\Users\norbi\source\repos\cstrippedtesty\obj\Debug\netcoreapp3.1\cstrippedtesty.AssemblyInfo.cs
+C:\Users\norbi\source\repos\cstrippedtesty\obj\Debug\netcoreapp3.1\cstrippedtesty.csproj.CoreCompileInputs.cache
+C:\Users\norbi\source\repos\cstrippedtesty\obj\Debug\netcoreapp3.1\cstrippedtesty.dll
+C:\Users\norbi\source\repos\cstrippedtesty\obj\Debug\netcoreapp3.1\cstrippedtesty.pdb
+C:\Users\norbi\source\repos\cstrippedtesty\obj\Debug\netcoreapp3.1\cstrippedtesty.genruntimeconfig.cache
+C:\Users\norbi\source\repos\cstrippedtesty\obj\Debug\netcoreapp3.1\cstrippedtesty.csprojAssemblyReference.cache
